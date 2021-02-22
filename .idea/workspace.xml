@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ac7c7d7-96e9-4f11-938e-4bd44f6492e5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jZI1Ama1k0qaM7Jp95aMYZKbf1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Html5_css3" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\jquery_essentials\02-seletores" />
+      <recent name="C:\xampp\htdocs\jquery_essentials\01-jquery-essentials" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ac7c7d7-96e9-4f11-938e-4bd44f6492e5" name="Default Changelist" comment="" />
+      <created>1604004971798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604004971798</updated>
+      <workItem from="1604004972938" duration="923000" />
+      <workItem from="1604090117595" duration="1812000" />
+      <workItem from="1605100482084" duration="516000" />
+      <workItem from="1605187430541" duration="8945000" />
+      <workItem from="1605292571425" duration="1517000" />
+      <workItem from="1605298669130" duration="2728000" />
+      <workItem from="1610830929750" duration="1206000" />
+      <workItem from="1611497481691" duration="1978000" />
+      <workItem from="1611860641133" duration="7105000" />
+      <workItem from="1611918966463" duration="2264000" />
+      <workItem from="1612441349343" duration="2346000" />
+      <workItem from="1613602945886" duration="89000" />
+      <workItem from="1613649202073" duration="752000" />
+      <workItem from="1613650872788" duration="3203000" />
+      <workItem from="1613768129688" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="382" y="149" key="#Live_Templates" timestamp="1605202683618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="382" y="149" key="#Live_Templates/0.0.1920.1040@0.0.1920.1040" timestamp="1605202683618" />
+    <state x="260" y="278" key="FileChooserDialogImpl" timestamp="1613768164696">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="260" y="278" key="FileChooserDialogImpl/0.0.1920.1040/1920.2.1920.1040@0.0.1920.1040" timestamp="1613768164696" />
+    <state x="1220" y="328" key="save.file.as.template.dialog" timestamp="1605202714889">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="328" key="save.file.as.template.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605202714889" />
+    <state x="1308" y="430" key="save.project.as.template.dialog" timestamp="1605202692426">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1308" y="430" key="save.project.as.template.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605202692426" />
+    <state x="143" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1612442361279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="143" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.2.1920.1040@0.0.1920.1040" timestamp="1612442361279" />
+  </component>
+</project>
